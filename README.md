@@ -11,15 +11,15 @@
   <em>"Why not, baby?"</em>
 </p>
 
+<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2htYmxlNm55NHUzdnk3bDhkejJ5aHFuMXhsaTF6NTU4aXFqY3RnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="100"> Welcome to <strong>Yushi's Dev World</strong> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2htYmxlNm55NHUzdnk3bDhkejJ5aHFuMXhsaTF6NTU4aXFqY3RnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="100"></h1>
 
-<h1 align="center">👾 Welcome to <strong>Yushi's Dev World</strong> 👾</h1>
-<h3 align="center">🎉Indie Game Developer • AI learner • Study Computer Science🎉</h3>
+<h3 align="center">👾Indie Game Developer • AI learner • Study Computer Science👾</h3>
 
 <p align="center">
   <em>Just a dev vibin’ and tryna get rich</em>
 </p>
 
----
+
 
 <table align="center">
   <tr>
@@ -35,28 +35,27 @@
   </tr>
 </table>
 
-
-
-
-
-
----
-
-### 🧰 Tech Stack
+### 🧰 Tech Language
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pygame,git,github,vscode,linux" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
----
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak & Tropies
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loicoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Loicoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -66,53 +65,39 @@
 </div>
 
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ### 💡 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=catppuccinMocha&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/loi_coder?theme=catppuccinMocha&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
----
+
 
 ### 🎮 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Loicoder">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:phanphuloi2505@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
----
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&text=%E2%9C%A8%20Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Yushi%20%E2%9C%A8&fontSize=20&fontColor=63F5D6&fontAlign=50&fontAlignY=70&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=54&color=7C6EB2" width="100%" />
 </p>
 
-<p align="center">✨ Made with ❤️ by <strong>Yushi</strong> ✨</p>
 
 
-# 🖥️ My Languages: 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/loi_coder?theme=catppuccinMocha&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
-</p>
+
+
+
+
+
+
+
+
