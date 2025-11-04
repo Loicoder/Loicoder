@@ -48,9 +48,9 @@
 
 ### 🔥 GitHub Streak & Tropies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loicoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Loicoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
