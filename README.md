@@ -7,13 +7,9 @@
        style="width: 100%; height: auto; display: block;" />
 </div>
 
-<p align="center">
-  <em>"Why not, baby?"</em>
-</p>
-
 <h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2htYmxlNm55NHUzdnk3bDhkejJ5aHFuMXhsaTF6NTU4aXFqY3RnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="100"> Welcome to <strong>Yushi's Dev World</strong> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2htYmxlNm55NHUzdnk3bDhkejJ5aHFuMXhsaTF6NTU4aXFqY3RnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJsjsm6dhNPiQBvztq/giphy.gif" width="100"></h1>
 
-<h3 align="center">👾Indie Game Developer • AI learner • Study Computer Science👾</h3>
+<h3 align="center">👾Solo Game Developer • AI learner • Study Computer Science👾</h3>
 
 <p align="center">
   <em>Just a dev vibin’ and tryna get rich</em>
