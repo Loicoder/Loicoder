@@ -2,7 +2,7 @@
 <!-- 💾 Yushi's GitHub Profile  -->
 <!-- ========================== -->
 <div align="center" style="width: 100%; margin: 0; padding: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=Yushi&fontSize=70&fontColor=63F5D6&fontAlign=50&fontAlignY=30&stroke=-&strokeWidth=0&desc=-%20Indie%20GameDev%20-&descSize=20&descAlign=50&descAlignY=54&color=7C6EB2"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=Yushi&fontSize=70&fontColor=63F5D6&fontAlign=50&fontAlignY=30&stroke=-&strokeWidth=0&desc=-%20Solo%20GameDev%20-&descSize=20&descAlign=50&descAlignY=54&color=7C6EB2"
        alt="Yushi Banner"
        style="width: 100%; height: auto; display: block;" />
 </div>
